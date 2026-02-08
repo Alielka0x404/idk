@@ -1,7 +1,0 @@
-root
-admin
-ubuntu
-azureuser
-ec2-user
-centos
-www-data
